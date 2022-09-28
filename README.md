@@ -1,6 +1,6 @@
 # Django-Models
 
-Author: Olubayode Ebenezer
+Author: Olubayode Ebenezer.
 
 Created a new GitHub repository with a README.md, and Python .gitignore file.
 
